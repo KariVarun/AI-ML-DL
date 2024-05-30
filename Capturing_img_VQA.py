@@ -1,3 +1,4 @@
+#base model Salesforce/blip-vqa-base
 #pip install opencv-python
 import requests
 from PIL import Image
